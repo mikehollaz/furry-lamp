@@ -20,8 +20,8 @@ def freq_threshold(text, n):
             total += 1
     
 
-    #indenting should be fixed here
-    print("looks good")
+#indenting should be fixed here
+print("looks good")
     
-    return total
-    #looks good
+return total
+#looks good
