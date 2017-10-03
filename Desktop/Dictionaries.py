@@ -20,3 +20,4 @@ def freq_threshold(text, n):
             total += 1
 
     return total
+    #looks good
