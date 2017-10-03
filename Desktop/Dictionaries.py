@@ -19,6 +19,9 @@ def freq_threshold(text, n):
         if count > n:
             total += 1
     
+
     #indenting should be fixed here
+    print("looks good")
+    
     return total
     #looks good
